@@ -8,6 +8,11 @@
 <!-- Descrição -->
 <p align="left">Atualmente, sou estudante de Sistemas de Informação no CEFET/RJ e possuo diploma técnico administrativo. Tenho especial interesse no desenvolvimento de aplicativos, com proficiência em linguagens como Java e Kotlin. Estou sempre aberta a adquirir conhecimento em outras linguagens e bibliotecas relevantes para a área. Dedico-me constantemente à atualização e aprimoramento dos meus conhecimentos em tecnologia, buscando sempre criar soluções inovadoras e eficientes.
 
+O QUE ME MOVE:
+
+O que realmente me move são as pequenas coisas da vida que me trazem felicidade e me fazem sentir viva. Desde os momentos de paz que encontro nos esportes, até a convivência enriquecedora com meus amigos. Essas experiências me ensinam a valorizar cada instante e a buscar sempre o melhor de mim mesma, não só nos momentos difíceis, mas em todas as situações que a vida me apresenta.
+
+
 <!-- Conecte-se comigo -->
 <h3 align="left">Conecte-se comigo!</h3>
 
